@@ -1,0 +1,7 @@
+SET,METHOD,VALUE
+Train,ECFP,0.939475
+Train,User_defined,0.950488
+Valid,ECFP,0.703998
+Valid,User_defined,0.638127
+Test,ECFP,0.498430
+Test,User_defined,0.727325

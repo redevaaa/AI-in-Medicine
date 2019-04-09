@@ -1,0 +1,13 @@
+SET,METHOD,VALUE
+Train,Random_forest,0.9466
+Train,Stratified,0.948458
+Train,User_defined,0.945951
+Train,Scaffold,0.953761
+Valid,Random_forest,0.697349
+Valid,Stratified,0.761567
+Valid,User_defined,0.291971
+Valid,Scaffold,0.566221
+Test,Random_forest,0.639355
+Test,Stratified,0.70098
+Test,User_defined,0.447394
+Test,Scaffold,0.586221

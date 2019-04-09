@@ -1,0 +1,201 @@
+Fitting model 1/40
+hyperparameters: {'n_estimators': 10, 'max_features': 'auto'}
+computed_metrics: [0.726462463111643]
+Model 1/40, Metric roc_auc_score, Validation set 0: 0.726462
+	best_validation_score so far: 0.726462
+Fitting model 2/40
+hyperparameters: {'n_estimators': 10, 'max_features': 'sqrt'}
+computed_metrics: [0.7717289390732539]
+Model 2/40, Metric roc_auc_score, Validation set 1: 0.771729
+	best_validation_score so far: 0.771729
+Fitting model 3/40
+hyperparameters: {'n_estimators': 10, 'max_features': 'log2'}
+computed_metrics: [0.7039178325984988]
+Model 3/40, Metric roc_auc_score, Validation set 2: 0.703918
+	best_validation_score so far: 0.771729
+Fitting model 4/40
+hyperparameters: {'n_estimators': 10, 'max_features': None}
+computed_metrics: [0.7798336944663693]
+Model 4/40, Metric roc_auc_score, Validation set 3: 0.779834
+	best_validation_score so far: 0.779834
+Fitting model 5/40
+hyperparameters: {'n_estimators': 20, 'max_features': 'auto'}
+computed_metrics: [0.7551279215327458]
+Model 5/40, Metric roc_auc_score, Validation set 4: 0.755128
+	best_validation_score so far: 0.779834
+Fitting model 6/40
+hyperparameters: {'n_estimators': 20, 'max_features': 'sqrt'}
+computed_metrics: [0.7717396222431137]
+Model 6/40, Metric roc_auc_score, Validation set 5: 0.771740
+	best_validation_score so far: 0.779834
+Fitting model 7/40
+hyperparameters: {'n_estimators': 20, 'max_features': 'log2'}
+computed_metrics: [0.7732924524033362]
+Model 7/40, Metric roc_auc_score, Validation set 6: 0.773292
+	best_validation_score so far: 0.779834
+Fitting model 8/40
+hyperparameters: {'n_estimators': 20, 'max_features': None}
+computed_metrics: [0.7725942758319047]
+Model 8/40, Metric roc_auc_score, Validation set 7: 0.772594
+	best_validation_score so far: 0.779834
+Fitting model 9/40
+hyperparameters: {'n_estimators': 30, 'max_features': 'auto'}
+computed_metrics: [0.7765156275922398]
+Model 9/40, Metric roc_auc_score, Validation set 8: 0.776516
+	best_validation_score so far: 0.779834
+Fitting model 10/40
+hyperparameters: {'n_estimators': 30, 'max_features': 'sqrt'}
+computed_metrics: [0.782758997742709]
+Model 10/40, Metric roc_auc_score, Validation set 9: 0.782759
+	best_validation_score so far: 0.782759
+Fitting model 11/40
+hyperparameters: {'n_estimators': 30, 'max_features': 'log2'}
+computed_metrics: [0.7850213160659792]
+Model 11/40, Metric roc_auc_score, Validation set 10: 0.785021
+	best_validation_score so far: 0.785021
+Fitting model 12/40
+hyperparameters: {'n_estimators': 30, 'max_features': None}
+computed_metrics: [0.7629957619236745]
+Model 12/40, Metric roc_auc_score, Validation set 11: 0.762996
+	best_validation_score so far: 0.785021
+Fitting model 13/40
+hyperparameters: {'n_estimators': 40, 'max_features': 'auto'}
+computed_metrics: [0.7706015504421574]
+Model 13/40, Metric roc_auc_score, Validation set 12: 0.770602
+	best_validation_score so far: 0.785021
+Fitting model 14/40
+hyperparameters: {'n_estimators': 40, 'max_features': 'sqrt'}
+computed_metrics: [0.7879937509740537]
+Model 14/40, Metric roc_auc_score, Validation set 13: 0.787994
+	best_validation_score so far: 0.787994
+Fitting model 15/40
+hyperparameters: {'n_estimators': 40, 'max_features': 'log2'}
+computed_metrics: [0.7846235250941376]
+Model 15/40, Metric roc_auc_score, Validation set 14: 0.784624
+	best_validation_score so far: 0.787994
+Fitting model 16/40
+hyperparameters: {'n_estimators': 40, 'max_features': None}
+computed_metrics: [0.7683480300234777]
+Model 16/40, Metric roc_auc_score, Validation set 15: 0.768348
+	best_validation_score so far: 0.787994
+Fitting model 17/40
+hyperparameters: {'n_estimators': 50, 'max_features': 'auto'}
+computed_metrics: [0.7797186932849365]
+Model 17/40, Metric roc_auc_score, Validation set 16: 0.779719
+	best_validation_score so far: 0.787994
+Fitting model 18/40
+hyperparameters: {'n_estimators': 50, 'max_features': 'sqrt'}
+computed_metrics: [0.7655245310716854]
+Model 18/40, Metric roc_auc_score, Validation set 17: 0.765525
+	best_validation_score so far: 0.787994
+Fitting model 19/40
+hyperparameters: {'n_estimators': 50, 'max_features': 'log2'}
+computed_metrics: [0.7875042104257682]
+Model 19/40, Metric roc_auc_score, Validation set 18: 0.787504
+	best_validation_score so far: 0.787994
+Fitting model 20/40
+hyperparameters: {'n_estimators': 50, 'max_features': None}
+computed_metrics: [0.7560385046578622]
+Model 20/40, Metric roc_auc_score, Validation set 19: 0.756039
+	best_validation_score so far: 0.787994
+Fitting model 21/40
+hyperparameters: {'n_estimators': 60, 'max_features': 'auto'}
+computed_metrics: [0.796940591520831]
+Model 21/40, Metric roc_auc_score, Validation set 20: 0.796941
+	best_validation_score so far: 0.796941
+Fitting model 22/40
+hyperparameters: {'n_estimators': 60, 'max_features': 'sqrt'}
+computed_metrics: [0.7750979081096572]
+Model 22/40, Metric roc_auc_score, Validation set 21: 0.775098
+	best_validation_score so far: 0.796941
+Fitting model 23/40
+hyperparameters: {'n_estimators': 60, 'max_features': 'log2'}
+computed_metrics: [0.7877046769660802]
+Model 23/40, Metric roc_auc_score, Validation set 22: 0.787705
+	best_validation_score so far: 0.796941
+Fitting model 24/40
+hyperparameters: {'n_estimators': 60, 'max_features': None}
+computed_metrics: [0.7701553709950681]
+Model 24/40, Metric roc_auc_score, Validation set 23: 0.770155
+	best_validation_score so far: 0.796941
+Fitting model 25/40
+hyperparameters: {'n_estimators': 70, 'max_features': 'auto'}
+computed_metrics: [0.7806688669807099]
+Model 25/40, Metric roc_auc_score, Validation set 24: 0.780669
+	best_validation_score so far: 0.796941
+Fitting model 26/40
+hyperparameters: {'n_estimators': 70, 'max_features': 'sqrt'}
+computed_metrics: [0.7770372176501048]
+Model 26/40, Metric roc_auc_score, Validation set 25: 0.777037
+	best_validation_score so far: 0.796941
+Fitting model 27/40
+hyperparameters: {'n_estimators': 70, 'max_features': 'log2'}
+computed_metrics: [0.8046243043371155]
+Model 27/40, Metric roc_auc_score, Validation set 26: 0.804624
+	best_validation_score so far: 0.804624
+Fitting model 28/40
+hyperparameters: {'n_estimators': 70, 'max_features': None}
+computed_metrics: [0.7643770329443822]
+Model 28/40, Metric roc_auc_score, Validation set 27: 0.764377
+	best_validation_score so far: 0.804624
+Fitting model 29/40
+hyperparameters: {'n_estimators': 80, 'max_features': 'auto'}
+computed_metrics: [0.7851168361729618]
+Model 29/40, Metric roc_auc_score, Validation set 28: 0.785117
+	best_validation_score so far: 0.804624
+Fitting model 30/40
+hyperparameters: {'n_estimators': 80, 'max_features': 'sqrt'}
+computed_metrics: [0.7786233541634198]
+Model 30/40, Metric roc_auc_score, Validation set 29: 0.778623
+	best_validation_score so far: 0.804624
+Fitting model 31/40
+hyperparameters: {'n_estimators': 80, 'max_features': 'log2'}
+computed_metrics: [0.7819225683848556]
+Model 31/40, Metric roc_auc_score, Validation set 30: 0.781923
+	best_validation_score so far: 0.804624
+Fitting model 32/40
+hyperparameters: {'n_estimators': 80, 'max_features': None}
+computed_metrics: [0.7588274404130491]
+Model 32/40, Metric roc_auc_score, Validation set 31: 0.758827
+	best_validation_score so far: 0.804624
+Fitting model 33/40
+hyperparameters: {'n_estimators': 90, 'max_features': 'auto'}
+computed_metrics: [0.7800775221078775]
+Model 33/40, Metric roc_auc_score, Validation set 32: 0.780078
+	best_validation_score so far: 0.804624
+Fitting model 34/40
+hyperparameters: {'n_estimators': 90, 'max_features': 'sqrt'}
+computed_metrics: [0.7758909763663147]
+Model 34/40, Metric roc_auc_score, Validation set 33: 0.775891
+	best_validation_score so far: 0.804624
+Fitting model 35/40
+hyperparameters: {'n_estimators': 90, 'max_features': 'log2'}
+computed_metrics: [0.7828695999718467]
+Model 35/40, Metric roc_auc_score, Validation set 34: 0.782870
+	best_validation_score so far: 0.804624
+Fitting model 36/40
+hyperparameters: {'n_estimators': 90, 'max_features': None}
+computed_metrics: [0.7698958328096486]
+Model 36/40, Metric roc_auc_score, Validation set 35: 0.769896
+	best_validation_score so far: 0.804624
+Fitting model 37/40
+hyperparameters: {'n_estimators': 100, 'max_features': 'auto'}
+computed_metrics: [0.770707753719]
+Model 37/40, Metric roc_auc_score, Validation set 36: 0.770708
+	best_validation_score so far: 0.804624
+Fitting model 38/40
+hyperparameters: {'n_estimators': 100, 'max_features': 'sqrt'}
+computed_metrics: [0.7788778649747876]
+Model 38/40, Metric roc_auc_score, Validation set 37: 0.778878
+	best_validation_score so far: 0.804624
+Fitting model 39/40
+hyperparameters: {'n_estimators': 100, 'max_features': 'log2'}
+computed_metrics: [0.7956711795727738]
+Model 39/40, Metric roc_auc_score, Validation set 38: 0.795671
+	best_validation_score so far: 0.804624
+Fitting model 40/40
+hyperparameters: {'n_estimators': 100, 'max_features': None}
+computed_metrics: [0.7630058166717779]
+Model 40/40, Metric roc_auc_score, Validation set 39: 0.763006
+	best_validation_score so far: 0.804624
+computed_metrics: [0.9998077662437524]

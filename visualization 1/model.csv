@@ -1,0 +1,7 @@
+SET,METHOD,VALUE
+Train,Random_forest,0.949936
+Train,DNN,0.533107
+Valid,Random_forest,0.664114
+Valid,DNN,0.497039
+Test,Random_forest,0.753293
+Test,DNN,0.469540
